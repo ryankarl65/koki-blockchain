@@ -1,4 +1,4 @@
-pragma solidity >=0.4.25 <0.7.0;
+pragma solidity >=0.4.25 <=0.7.4;
 
 import "truffle/Assert.sol";
 import "truffle/DeployedAddresses.sol";
